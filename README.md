@@ -17,7 +17,7 @@ Müügitiimi repository
 
 ÜHISED TÖÖRIISTAD:
 Suhtluskanal: ___________________________ (Google Workspace Chat)
-GitHub repo:  
+GitHub repo:  https://github.com/kaarusdoris-a11y/Sales-Analytics
 Supabase:     ___________________________
 NotebookLM:   ___________________________
 
