@@ -3,22 +3,22 @@ Müügitiimi repository
 # [Sales Analytics] -- UrbanStyle.ltd Andmemeeskond
    ## Meeskonnaliikmed
    | Nimi | Roll (Nädal 1) | OS |
-   | Ahto Sooaru] | A: Team Charter Koostaja | Win/Mac |
-   | Doris Kaarus | B: GitHub Repo Seadistaja | Win/Mac |
-   | Henri Greenbaum | B: Supabase Seadistaja | Win/Mac |
-   | Kaarin Peet | B: Portfoolio Struktuur + Dokumentatsioon | Win/Mac |
-   | Tekla Relika Ani | B: Data Processing | Win/Mac |
+   | Ahto Sooaru] | A: Team Charter Koostaja | Win |
+   | Doris Kaarus | B: GitHub Repo Seadistaja | Mac |
+   | Henri Greenbaum | B: Supabase Seadistaja | Mac |
+   | Kaarin Peet | B: Portfoolio Struktuur + Dokumentatsioon | Win |
+   | Tekla Relika Ani | B: Data Processing | Win |
 
 
   
    ## Meie eesmärk
-   [1-2 lauset]
+   
 
 
 ÜHISED TÖÖRIISTAD:
 Suhtluskanal: ___________________________ (Google Workspace Chat)
 GitHub repo:  https://github.com/kaarusdoris-a11y/Sales-Analytics
-Supabase:     ___________________________
+Supabase:     
 NotebookLM:   ___________________________
 
 KOKKULEPPED:
