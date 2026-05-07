@@ -10,3 +10,16 @@ Team Charter: GitHubis + Supabase'is -- sotsiaalne leping
 SUURIM ÜLLATUS: Et Toomas, kes muretseb andmekvaliteedi pärast andis meile nö vabad käed ja ootas abi otsimisega nii kaua. 
 SOOVITUS TOOMASELE: Ära muretse, meie meeskond on asja kallal. 
 PUUDUVAD ANDMED: No hetkel puuduvad kõik andmed. On antud ainult informatsioon, mida me siin parandame. 
+
+
+
+
+MEESKOND: Sales Analytics | NÄDAL: 1 | TEGELANE: Toomas Kask
+
+"ESIMENE NÄDAL URBANSTYLE-S TUTVUDES ANDMETEGA!" 
+
+Uurisime SALES, CLIENTS ja PRODUCTS andmeid. Oleme üldiselt tutvunud andmete vigadega, sel nädalal keskendusime põhiliselt NULL andmetele kuid heitsime ka kiirelt pilgu duplikaatidele ning kirjapildi erinevustele andmetes.  
+
+SUURIM ÜLLATUS: NULL väärtusi otsides, ei olnudki andmeis kõige suurem kaos. Probleeme oli, kuid mitte igas tabelis ja enamuis veergudes. 
+SOOVITUS TOOMASELE: IT juhina võiks õppida ka ise väikse SQL koodijupi millega saab ülevaate veergudest ja ridadest. 
+PUUDUVAD ANDMED: 1487 rida client_id, e-mailita 380 klienti ja eco_certified veerus 18 rida puudu. 
