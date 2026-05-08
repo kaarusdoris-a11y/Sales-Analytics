@@ -35,4 +35,4 @@ Enne müügi- ja kliendianalüüse tuleks andmed korrastada, sest vigased andmed
 
 PUUDUVAD ANDMED:
 1487 customer_id puudu, 380 kliendil puudub e-mail. Products tabelis oli eco_certified veerus 18 null väärtust, online asukoht( store_location) NULL
-[**Data Landscape slide**](https://docs.google.com/presentation/d/1Smp8DZXraVU3ZqaMpKTdUgwMp2WfoM4Je7rSZp94j38/edit?usp=sharing)
+
